@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sidi! <br/><a href="https://github.com/touresidimohamed7">Passionate</a> <a href="https://www.linkedin.com/in/sidi-toure-b82483130/">Cybersecurity </a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Sidi! <br/><a href="https://github.com/touresidimohamed7"></a> <a href="https://www.linkedin.com/in/sidi-toure-b82483130/">Cybersecurity Professional </a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
