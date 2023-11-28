@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sidi! I'm fervently passionate about cybersecurity
+<h1>Hi, I'm Sidi! I'm fervently passionate about Cybersecurity
 
 <h2>👨‍💻 Cyber Project:</h2>
 
